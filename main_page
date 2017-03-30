@@ -7,13 +7,35 @@
 	</head>
 	
 	<body>
+	
+	<div id="top"></div>
+	
 		<div id="headFrame">
 			<p> testing </p>
 		</div>
-			<div class = "followingBanner" id="standardFormat">
-			<p> testing </p>
+		
+		<div class = "followingBanner">
+		<div id="standardFormat">
+			<p class="buttonBox" style="float: right"> <a href = "#top"> Top </a> </p>
+			<p class="buttonBox" style="float: left"> <a href = "#bottom"> bottom </a> </p>
+			<p style="float: left"> </p>
+			<p class="buttonBox" style="float: left"> <a href = "#middle"> middle </a> </p>
+			<p style="float: left"> </p>
+			<p class="buttonBox" style="float: left"> <a href = "#lowest"> lowest </a> </p>
+		</div>
 		</div>
 		<p id="standardFormat"> Hello World! </p>
+		<p style="height: 2000px;"> </p>
+		<p id="bottom" style = "height: 60px"> </p>
+		<p> bottom </p>
+		
+		<p style="height: 2000px;"> </p>
+		<p id="bottom" style = "height: 60px"> </p>
+		<p id="middle"> middle </p>
+		
+		<p style="height: 2000px;"> </p>
+		<p id="lowest"> lowest </p>
+		
 	</body>
 </html>
 
