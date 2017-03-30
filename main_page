@@ -10,7 +10,10 @@
 		<div id="headFrame">
 			<p> testing </p>
 		</div>
-		<p> Hello World! </p>
+			<div class = "followingBanner" id="standardFormat">
+			<p> testing </p>
+		</div>
+		<p id="standardFormat"> Hello World! </p>
 	</body>
 </html>
 
