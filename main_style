@@ -1,0 +1,12 @@
+body {
+	background-color: #fff;
+	margin: 0px;
+}
+
+#headFrame {
+	height: 120px;
+	overflow: hidden;
+	margin: auto;
+	padding: 50px;
+	background-image: url("http://www.patioplantsunlimited.com/templates/ppu3/images/header.jpg");
+}
